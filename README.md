@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hazara
+# 👋 Hi, I'm Shadan Akram
 
 💻 Frontend Developer | React Enthusiast
 
