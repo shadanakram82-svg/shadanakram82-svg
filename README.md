@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Shadan .<br>💻 Full Stack Developer | React • Node.js • MongoDB<br>🤖 Building AI-powered web applications<br>🌱 Learning something new every day
+# 👋 Hi, I'm Shadan Akram
 
+💻 Frontend Developer | React Enthusiast
+
+Building modern, responsive, and interactive web applications with React.js and JavaScript.
+
+### 🚀 Tech Stack
+React.js • JavaScript • Tailwind CSS • Material UI • Redux • HTML5 • CSS3 • Git • GitHub • Vite
+
+### 📚 Currently Learning
+Node.js • Express.js • MongoDB
+
+### 🎯 Goal
+Become a skilled Full Stack Developer while continuously building real-world projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shadan_akram09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shadan-akram-36167135a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shadanakram82@gmail.com) 
